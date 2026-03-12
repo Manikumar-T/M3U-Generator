@@ -1,14 +1,3 @@
-Here is a **more engaging, modern GitHub README** with your requested updates:
-
-* ❌ Removed **folder scanning**
-* ❌ Removed **password features**
-* ✅ Added **M3U / M3U8 playlist import (like VLC)**
-* ✨ Cleaner, more professional GitHub presentation
-
-You can paste this directly into **`README.md`**.
-
----
-
 # 🎵 M3U Generator
 
 A simple, fast, **browser-based playlist generator** for creating and editing `.m3u8` playlists.
